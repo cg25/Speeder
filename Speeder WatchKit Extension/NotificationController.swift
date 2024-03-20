@@ -1,10 +1,3 @@
-//
-//  NotificationController.swift
-//  Speeder WatchKit Extension
-//
-//  Created by Chang Gao on 3/20/24.
-//
-
 import WatchKit
 import SwiftUI
 import UserNotifications
